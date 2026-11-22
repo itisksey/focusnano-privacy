@@ -3,7 +3,7 @@ title: Privacy Policy for FocusNano Widget
 ---
 # Privacy Policy for FocusNano Widget
 
-Effective date: 22.11.2026
+Effective date: November 22, 2026
 
 Publisher: ksey
 
